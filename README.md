@@ -14,35 +14,38 @@ Clients can browse services, view details and reviews, book services, and provid
 ---
 
 ## Features
--**For Companies:**
- -Account creation and secure login.
-Posting and managing advertisements for services.
-Viewing and managing client bookings.
-Approving or rejecting service bookings.
-For Clients:
-Account creation and secure login.
-Browsing available services and advertisements.
-Viewing service details and reviews from previous clients.
-Booking services and managing their reservations.
-Leaving reviews and feedback for services.
-Technologies Used
-Frontend: Angular 18, SCSS, Ng Zorro UI for responsive and intuitive user interfaces.
-Backend: Spring Boot for building robust APIs and handling business logic.
-Database: MySQL for data storage and management.
-Tools:
-IDE: Visual Studio Code (for Angular), Spring Tool Suite (for Spring Boot).
-Testing: Postman for API testing.
-Project Structure
-Frontend: Angular application for user interactions.
-Backend: Spring Boot application with separate layers:
-Model: Entity classes representing database tables.
-Repository: Interface for data access.
-Service: Business logic layer.
-Controller: Handles HTTP requests.
-Database: MySQL database named service_booking_system.
-Getting Started
-Prerequisites
-Node.js and npm installed for Angular.
-Java JDK and Maven installed for Spring Boot.
-MySQL Server installed and running.
+- **For Companies:**
+  -Account creation and secure login.
+  -Posting and managing advertisements for services.
+  -Viewing and managing client bookings.
+  -Approving or rejecting service bookings.
+- **For Clients:**
+  -Account creation and secure login.
+  -Browsing available services and advertisements.
+  -Viewing service details and reviews from previous clients.
+  -Booking services and managing their reservations.
+  -Leaving reviews and feedback for services.
+
+---
+
+## Technologies Used
+- **Frontend:** Angular 18, SCSS, Ng Zorro UI for responsive and intuitive user interfaces.
+- **Backend:** Spring Boot for building robust APIs and handling business logic.
+- **Database:** MySQL for data storage and management.
+
+---
+
+## Tools:
+- **IDE:** Visual Studio Code (for Angular), Spring Tool Suite (for Spring Boot).
+- **Testing:** Postman for API testing.
+  
+## Project Structure
+- **Frontend:** Angular application for user interactions.
+- **Backend:** Spring Boot application with separate layers:
+- **Model:** Entity classes representing database tables.
+- **Repository:** Interface for data access.
+- **Service:** Business logic layer.
+- **Controller:** Handles HTTP requests.
+- **Database:** MySQL database named service_booking_system.
+
 
