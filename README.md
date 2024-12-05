@@ -4,8 +4,6 @@
 
 The **Service Booking System** is a platform designed to bridge the gap between service providers and clients. It streamlines the process of discovering, booking, and reviewing services, offering a seamless user experience for both companies and clients.
 
----
-
 ## Purpose
 The primary purpose of this project is to create a robust, user-friendly platform where:
 Companies can create accounts, post and manage advertisements for their services, and handle bookings by approving or rejecting them.
@@ -33,7 +31,6 @@ Clients can browse services, view details and reviews, book services, and provid
 - **Backend:** Spring Boot for building robust APIs and handling business logic.
 - **Database:** MySQL for data storage and management.
 
----
 
 ## Tools:
 - **IDE:** Visual Studio Code (for Angular), Spring Tool Suite (for Spring Boot).
