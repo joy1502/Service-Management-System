@@ -48,4 +48,21 @@ Clients can browse services, view details and reviews, book services, and provid
 - **Controller:** Handles HTTP requests.
 - **Database:** MySQL database named service_booking_system.
 
+---
+## Snapshots:
+![image](https://github.com/user-attachments/assets/71ddde6b-e794-47f6-912d-63c24b20aab4)
+![image](https://github.com/user-attachments/assets/c695a83f-7eec-459f-957e-86cb27062a44)
+![image](https://github.com/user-attachments/assets/a3537d53-4239-4dd2-93b0-76c10dcb8992)
+![image](https://github.com/user-attachments/assets/7cf12cee-16d6-45f5-9634-404f4b7fa2ee)
+![image](https://github.com/user-attachments/assets/934c0ec4-c9bf-4187-9637-d233dc4e100e)
+![image](https://github.com/user-attachments/assets/7d511165-8b2c-4e24-8ab0-810043dc19cf)
+![image](https://github.com/user-attachments/assets/b491a9e0-aa74-4b53-9213-51635e714d2b)
+
+
+
+
+
+
+
+
 
